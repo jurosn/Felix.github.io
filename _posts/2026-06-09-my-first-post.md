@@ -1,6 +1,6 @@
 layout: post
   title: "我的第一篇文章"
-  date: 2026-06-09 20:00:00 +0800
+  date: 2026-06-09 
   categories: diary
   ---
 
